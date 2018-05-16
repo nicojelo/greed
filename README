@@ -1,0 +1,21 @@
+Greed Game for ICS-OS
+--------------------------------
+
+1. Extract from within ics-os source dir.
+
+   $tar xzvf greed.tar.gz
+   $cd contrib/greed
+   $make
+   $make install
+
+2. Perform the steps to install ics-os.
+   $cd ../..
+   $chmod 777 greed.sh
+   $sudo ./greed.sh
+
+3. Run greed.exe inside ics-os
+
+Enjoy!
+
+Mercado, Nico Angelo L. 2015-04344
+Angel, Jira G. 2015-13664
